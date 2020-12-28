@@ -1,2 +1,2 @@
 # kinihc.github.io
-My first website with HTML and CSS.
+My first <a href="https://kinihc.github.io/">website</a> with HTML and CSS.
